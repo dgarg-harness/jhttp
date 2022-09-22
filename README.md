@@ -25,3 +25,4 @@ It creates a self-contained, executable JAR in the `target` directory.
     -t,--threads <THREADS_NO>   thread pool size (default: 10)
     
     test pr
+test
